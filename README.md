@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Frontend-Development 
 - 💞️ I’m looking to collaborate on Small scale projects
-- 📫 You can reach me [Here](mailto:mukesh512004@gmail.com)
+- 📫 You can reach me [mukesh512004@gmail.com](mailto:mukesh512004@gmail.com)
 - ⚡ Fun fact: There's NOTHING!
 
 ---
