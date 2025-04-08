@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukesh469&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mukesh469&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukesh469&theme=dark&show_icons=true&count_private=true" />
 
